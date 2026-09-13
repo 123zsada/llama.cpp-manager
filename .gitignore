@@ -1,0 +1,10 @@
+build/bin
+node_modules
+frontend/dist
+
+# Wails transient resource file
+*.syso
+
+# Runtime write probe / atomic temp files
+.llama-manager-write-test
+*.tmp
